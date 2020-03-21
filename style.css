@@ -1,0 +1,36 @@
+html, body{
+	height: 100%;
+	width: 100%;
+}
+
+body{
+	background-image: url('images/landingPage.jpg');
+	background-repeat: no-repeat;
+	/*background-attachment: fixed;*/
+	background-position: center;
+	background-size: contain;
+	background-color: black;
+}
+
+h1{
+	/*text-align: center;*/
+	color: white;
+}
+
+.myRow{
+	text-align: center;
+	margin-top: 200px;
+	margin-bottom: 30px;
+}
+
+.landingBtn{
+	border-radius: 20px;
+}
+
+hr {
+  max-width: 65px;
+  border-width: 3px;
+  border-color: white;
+  	margin-top: 200px;
+	margin-bottom: 30px; 
+}
